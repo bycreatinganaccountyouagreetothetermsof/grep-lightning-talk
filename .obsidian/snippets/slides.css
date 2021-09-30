@@ -1,6 +1,6 @@
 /* sets font size to 1em so all items fit in a slide and changes background color*/
 .reveal {
-  font-size: 1.5em;
+  font-size: 1em;
   background-color: #282a36;
 }
 
@@ -29,8 +29,17 @@
   font-size: 1.5em;
   color: #8be9fd;
 }
+.reveal pre {
+  font-size: 1em;
+}
 
 /* changes paragraph color to match community dracula theme */
 .reveal p {
+  font-size: 16pt;
   color: #f8f8f2
+}
+
+.reveal pre, .reveal code {
+  color: #50fa7b;
+  overflow: hidden;
 }
