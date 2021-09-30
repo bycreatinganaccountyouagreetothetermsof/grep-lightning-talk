@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "5db8851ba7059f8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "71c335ff7b0d1c47",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "grep_and_we.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a49f7b078fbbc153",
+    "type": "split",
+    "children": [
+      {
+        "id": "91b88f8b0f70a253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e59f2670df681de9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "679adbdffd07490d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ac00cede925f96a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b71c9fb50adc8033",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0891ea130fd0a595",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "grep_and_we.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "71c335ff7b0d1c47",
+  "lastOpenFiles": [
+    "grep_and_we.md",
+    "Grep_example.png",
+    "tldr_page.png",
+    "mansplaining_page.gif",
+    "mansplaining_page.png",
+    "ken_email.png"
+  ]
+}

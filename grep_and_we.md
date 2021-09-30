@@ -14,13 +14,14 @@ the name is an acronym,
 
 ---
 
-#### usually file contents, but works on anything you can pipe
+#### usually files, but
+### works on anything you can shove into a pipe
 
 ---
 
 #### grep is older than you
 
-unless you are like 48 years old. the specific date is cooly debated and forever unknowable but the guy Kenneth Tomlinson who thought search started with G has confirmed hisself that grep was created "sometime before the 4th Edition" of Unix released March 3, 1973
+unless you are like 48 years old. the specific date is coolly debated and forever unknowable but Kenneth Tomlinson, the original guy who thought search started with G, has confirmed hisself that grep was created sometime before March 3, 1973
 
 ![[ken_email.png|400]]
 
@@ -38,7 +39,7 @@ the worst way to get to know grep is to read the manpage by typing `man grep`
 
 # oursplaining
 
-of course the mansplaining page is very long and boring and this is a presentation on grep so im gonna give u the tl;dr
+of course the manpage is very long and boring and this is a lightning talk so
 
 ![[tldr_page.png|500]]
 
@@ -125,5 +126,5 @@ the pipe `|` character inside a regexp means "or" and in this example will match
 
 ---
 
-# im done
-theres far more to grep but you're gonna have to find all that out yourself
+# thats it
+you know everything about grep now 
