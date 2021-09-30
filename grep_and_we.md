@@ -82,15 +82,16 @@ so if you get a big set of results from your first grep, you can refine it with 
 ---
 
 # pipe example
+## say you lookin for a thing.
 
 ---
 
-say you lookin for a thing.  well you found it! but theres too many thing...
 
 ![[big_greppy.mp4]]
  
  ---
  
+## well you found it! but theres too many thing...
  # pipe it
  
  ---
@@ -99,7 +100,12 @@ say you lookin for a thing.  well you found it! but theres too many thing...
  
  ---
  
+## fact: pipes are good 
+
+ ---
+ 
  ### regular expressions
+ #### are jessica's problem
  
  a huge part of gREp is the use of regular expressions, an arcane language worse than list comprehensions for writing cryptic little programs that match text in hideously complex ways.
  
@@ -127,4 +133,4 @@ the pipe `|` character inside a regexp means "or" and in this example will match
 ---
 
 # thats it
-you know everything about grep now 
+now you know everything about grep
